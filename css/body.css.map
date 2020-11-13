@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../Pug-Sass__PrimerosPasos/dev/sass/layout/body.scss"
+    ],
+    "names": [],
+    "file": "body.css"
+}
